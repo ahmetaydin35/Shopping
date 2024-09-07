@@ -1,1 +1,1 @@
-MERN & Bootstrap & Redux Toolkit
+MERN Stack & Bootstrap & Redux Toolkit
