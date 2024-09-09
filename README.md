@@ -1,1 +1,1 @@
-MERN Stack & Bootstrap & RTK
+MERN & Bootstrap & RTK
